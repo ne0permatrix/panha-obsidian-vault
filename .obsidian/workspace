@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4ed3e2dda4733bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf63b14cb0f7f62",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa731a0b99f13f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d85a6e2751afb44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb9012d675b574bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73c9027d545e9911",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334
+  },
+  "right": {
+    "id": "b4d421f952a51d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc78f68aedc9ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f012f6c3b5f0e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "adf63b14cb0f7f62",
+  "lastOpenFiles": [
+    "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md",
+    "dassatek/market-gardening/book-khmer/market-gardening-book-khmer.md",
+    "dassatek/facebook-page/about.md",
+    "personal/journal-reflection/2021-journal-reflection/dec-2021-journal-reflection.md",
+    "personal/journal-reflection/2021-journal-reflection/nov-2021-journal-reflection.md",
+    "uopeople/financial-aid/financial-aid-application-form.md",
+    "uopeople/BIOL1301/Course Outline.md",
+    "uopeople/BIOL1301/BIOL1301-W2-biological-molecules.md",
+    "3ZERO/3ZERO Club Orientation.md",
+    "uopeople/BIOL1301/BIOL1301-W1-introduction-to-scientific-inquiry-and-biochemistry.md"
+  ]
+}

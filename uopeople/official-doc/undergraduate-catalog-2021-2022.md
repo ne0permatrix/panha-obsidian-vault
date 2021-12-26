@@ -1,0 +1,1 @@
+https://catalog.uopeople.edu/undergraduate-catalog-term-1

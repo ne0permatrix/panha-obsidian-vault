@@ -1,0 +1,1 @@
+Being successful in college is a skill on its own. There are things that you can do to help you finish assignment on time or get good grade or more importantly how to effectively learn what you learn in school and apply it in the real world. 
