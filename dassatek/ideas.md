@@ -1,0 +1,5 @@
+- make cute pretty poster to teach about 
+	- companion planting
+	- permaculture
+	- soil
+	- market gardening

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md",
+            "file": "dassatek/ideas.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md",
+                "file": "dassatek/ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "adf63b14cb0f7f62",
   "lastOpenFiles": [
+    "dassatek/ideas.md",
     "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md",
     "dassatek/market-gardening/book-khmer/market-gardening-book-khmer.md",
     "dassatek/facebook-page/about.md",
@@ -96,7 +97,6 @@
     "uopeople/financial-aid/financial-aid-application-form.md",
     "uopeople/BIOL1301/Course Outline.md",
     "uopeople/BIOL1301/BIOL1301-W2-biological-molecules.md",
-    "3ZERO/3ZERO Club Orientation.md",
-    "uopeople/BIOL1301/BIOL1301-W1-introduction-to-scientific-inquiry-and-biochemistry.md"
+    "3ZERO/3ZERO Club Orientation.md"
   ]
 }
