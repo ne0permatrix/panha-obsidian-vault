@@ -7,11 +7,8 @@
         "id": "adf63b14cb0f7f62",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dassatek/content/video-explainers/market-gardening/jean-martin-fortier-book/Jan-2022/market-gardening.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dassatek/content/video-explainers/market-gardening/jean-martin-fortier-book/Jan-2022/market-gardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "adf63b14cb0f7f62",
   "lastOpenFiles": [
+    "uopeople/BIOL1301/Course Outline.md",
+    "uopeople/BIOL1301/UoPeople Online Syllabus Repository (OSR) - BIOL 1301.md",
+    "uopeople/BIOL1301/BIOL1301-W1-introduction-to-scientific-inquiry-and-biochemistry.md",
+    "uopeople/BIOL1301/BIOL1301-W2-biological-molecules.md",
     "dassatek/content/video-explainers/market-gardening/jean-martin-fortier-book/Jan-2022/market-gardening.md",
     "dassatek/vision-mission.md",
     "dassatek/facebook-page/about.md",
     "dassatek/book-translation/book-khmer/market-gardening-book-khmer.md",
     "dassatek/ideas.md",
-    "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md",
-    "personal/journal-reflection/2021-journal-reflection/dec-2021-journal-reflection.md",
-    "personal/journal-reflection/2021-journal-reflection/nov-2021-journal-reflection.md",
-    "uopeople/financial-aid/financial-aid-application-form.md",
-    "uopeople/BIOL1301/Course Outline.md"
+    "uopeople/BUS1101/BUS1101-W1-introduction-to-the-principles-of-management.md"
   ]
 }
